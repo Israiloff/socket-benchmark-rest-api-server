@@ -1,4 +1,4 @@
-package io.github.israiloff.rest_api_server;
+package io.github.israiloff.rest.api.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
